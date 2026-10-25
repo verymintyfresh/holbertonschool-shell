@@ -1,4 +1,4 @@
 ## Basics
 
-This script prints the absolute path of the current working directory.
+This folder contains files for the Shell Basics project.
 

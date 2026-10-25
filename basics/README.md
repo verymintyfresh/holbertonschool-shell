@@ -10,3 +10,4 @@ This folder contains files for the Shell Basics project.
 - 6-firstdirectory: Creates the directory /tmp/my\_first\_directory.
 - 7-movethatfile: Moves a file from /tmp to a subdirectory.
 - 8-firstdelete: Deletes a file in a subdirectory of /tmp.
+- 9-firstdirdeletion: Deletes a subdirectory of /tmp.

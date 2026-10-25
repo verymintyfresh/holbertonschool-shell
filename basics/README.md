@@ -7,3 +7,4 @@ This folder contains files for the Shell Basics project.
 - 3-listfiles: Lists the contents of the current working directory in long format.
 - 4-listmorefiles: As 3-listfiles, but with hidden files included.
 - 5-listfilesdigitonly: As 4-listmorefiles, but with UID/GID only displayed numerically.
+- 6-firstdirectory: Creates the directory /tmp/my\_first\_directory.

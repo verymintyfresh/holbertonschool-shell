@@ -26,3 +26,4 @@ This is the directory for the IO Redirections and Filters project.
 | 19-AZ | Replaces characters from input with other characters. |
 | 20-hiago | Deletes characters from input. |
 | 21-reverse | Reverses the input characterwise. |
+| 22-users\_and\_homes | Displays a list of users and their home directories. |

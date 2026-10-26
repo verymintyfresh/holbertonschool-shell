@@ -10,3 +10,4 @@ This is the directory for the Init files, Variables and Expansions project.
 | 4-global\_variables | Prints the user's environment variables. |
 | 5-local\_variables | Prints the shell-set variables. |
 | 6-create\_local\_variable | Sets a local variable. |
+| 7-create\_global\_variable | Sets a global variable. |

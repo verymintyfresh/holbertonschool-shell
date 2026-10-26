@@ -12,3 +12,4 @@ This folder contains files for the Shell Basics project.
 - 8-firstdelete: Deletes a file in a subdirectory of /tmp.
 - 9-firstdirdeletion: Deletes a subdirectory of /tmp.
 - 10-back: Changes the current working directory to the previous working directory.
+- 11-lists: Lists the contents of specific directories in long format, with hidden files included.

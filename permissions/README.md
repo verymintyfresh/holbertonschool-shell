@@ -11,3 +11,4 @@ This directory contains files for the Permissions project.
 | 4-empty | Creates a new file. |
 | 5-execute | Adds executable permissions to a file. |
 | 6-multiple\_permissions | Changes multiple permissions on a file at once. |
+| 7-everybody | As above. |

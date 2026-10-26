@@ -15,3 +15,4 @@ This is the directory for the IO Redirections and Filters project.
 | 8-cwd\_state | Writes a directory listing into a file. |
 | 9-duplicate\_last\_line | Duplicates the last line of a file. |
 | 10-no\_more\_js | Deletes files with a certain extension. |
+| 11-directories | Counts the number of directories in a directory. |

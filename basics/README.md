@@ -14,3 +14,4 @@ This folder contains files for the Shell Basics project.
 - 10-back: Changes the current working directory to the previous working directory.
 - 11-lists: Lists the contents of specific directories in long format, with hidden files included.
 - 12-file\_type: Prints information about a specific file.
+- 13-symbolic\_link: Creates a symbolic link in the current directory.

@@ -15,3 +15,4 @@ This folder contains files for the Shell Basics project.
 - 11-lists: Lists the contents of specific directories in long format, with hidden files included.
 - 12-file\_type: Prints information about a specific file.
 - 13-symbolic\_link: Creates a symbolic link in the current directory.
+- 14-copy\_html: Copies HTML files to the parent directory, and updates existing ones.

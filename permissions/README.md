@@ -9,3 +9,4 @@ This directory contains files for the Permissions project.
 | 2-groups | Prints the groups the current user is in. |
 | 3-new\_owner | Changes the owner of a file. |
 | 4-empty | Creates a new file. |
+| 5-execute | Adds executable permissions to a file. |

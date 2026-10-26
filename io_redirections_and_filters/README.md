@@ -29,3 +29,4 @@ This is the directory for the IO Redirections and Filters project.
 | 22-users\_and\_homes | Displays a list of users and their home directories. |
 | 23-empty\_casks | Displays a list of empty files and directories. |
 | 24-gifs | Displays a list of .gif filenames without their extensions. |
+| 25-acrostic | Decodes an acrostic poem into its hidden message. |

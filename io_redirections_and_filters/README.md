@@ -1,0 +1,7 @@
+## What is this directory?
+
+This is the directory for the IO Redirections and Filters project.
+
+| File | Description |
+| ---- | ----------- |
+| 0-hello\_world | Prints a message to the standard output. |

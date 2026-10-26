@@ -17,3 +17,4 @@ This folder contains files for the Shell Basics project.
 - 13-symbolic\_link: Creates a symbolic link in the current directory.
 - 14-copy\_html: Copies HTML files to the parent directory, and updates existing ones.
 - 15-lets\_move: Moves files starting with capital letters.
+- 16-clean\_emacs: Deletes all files ending with a tilde (~).

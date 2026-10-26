@@ -11,3 +11,4 @@ This folder contains files for the Shell Basics project.
 - 7-movethatfile: Moves a file from /tmp to a subdirectory.
 - 8-firstdelete: Deletes a file in a subdirectory of /tmp.
 - 9-firstdirdeletion: Deletes a subdirectory of /tmp.
+- 10-back: Changes the current working directory to the previous working directory.

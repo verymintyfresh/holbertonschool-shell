@@ -14,3 +14,4 @@ This is the directory for the IO Redirections and Filters project.
 | 7-file | Creates a file with a ridiculous name. |
 | 8-cwd\_state | Writes a directory listing into a file. |
 | 9-duplicate\_last\_line | Duplicates the last line of a file. |
+| 10-no\_more\_js | Deletes files with a certain extension. |

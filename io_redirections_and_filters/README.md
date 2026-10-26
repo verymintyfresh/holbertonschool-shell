@@ -8,3 +8,4 @@ This is the directory for the IO Redirections and Filters project.
 | 1-confused\_smiley | Prints a more complicated message to the standard output. |
 | 2-hellofile | Prints the content of a specified file to standard output. |
 | 3-twofiles | Prints the content of multiple files to standard output. |
+| 4-lastlines | Prints the last 10 lines of a specified file to standard output. |

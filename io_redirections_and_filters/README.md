@@ -12,3 +12,4 @@ This is the directory for the IO Redirections and Filters project.
 | 5-firstlines | Prints the first 10 lines of a specified file to standard output. |
 | 6-third\_line | Prints the third line of a specified file to standard output. |
 | 7-file | Creates a file with a ridiculous name. |
+| 8-cwd\_state | Writes a directory listing into a file. |

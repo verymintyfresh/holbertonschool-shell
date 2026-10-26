@@ -10,3 +10,4 @@ This directory contains files for the Permissions project.
 | 3-new\_owner | Changes the owner of a file. |
 | 4-empty | Creates a new file. |
 | 5-execute | Adds executable permissions to a file. |
+| 6-multiple\_permissions | Changes multiple permissions on a file at once. |

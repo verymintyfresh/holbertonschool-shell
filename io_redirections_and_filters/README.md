@@ -27,3 +27,4 @@ This is the directory for the IO Redirections and Filters project.
 | 20-hiago | Deletes characters from input. |
 | 21-reverse | Reverses the input characterwise. |
 | 22-users\_and\_homes | Displays a list of users and their home directories. |
+| 23-empty\_casks | Displays a list of empty files and directories. |

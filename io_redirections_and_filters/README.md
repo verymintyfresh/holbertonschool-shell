@@ -19,3 +19,4 @@ This is the directory for the IO Redirections and Filters project.
 | 12-newest\_files | Displays the 10 newest files in a directory. |
 | 13-unique | Displays a sorted list of unique words from a file. |
 | 14-findthatword | Displays lines from a certain file which contain a certain pattern. |
+| 15-countthatword | Displays a number of occurrences of a certain word in a file. |

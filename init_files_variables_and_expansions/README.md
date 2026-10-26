@@ -14,3 +14,4 @@ This is the directory for the Init files, Variables and Expansions project.
 | 8-true\_knowledge | Adds a variable to a constant. |
 | 9-divide\_and\_rule | Divides one variable by another. |
 | 10-love\_exponent\_breath | Raises one variable to the power of another. |
+| 11-binary\_to\_decimal | Converts a variable to a different base. |

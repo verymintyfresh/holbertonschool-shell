@@ -16,3 +16,4 @@ This directory contains files for the Permissions project.
 | 9-John\_Doe | Sets different permissions on a file. |
 | 10-mirror\_permissions | Copies permissions from one file to another. |
 | 11-directories\_permissions | Recursively sets execute permissions on directories only. |
+| 12-directory\_permissions | Creates a directory with specific permissions. |

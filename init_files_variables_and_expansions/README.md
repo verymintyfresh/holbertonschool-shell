@@ -11,3 +11,4 @@ This is the directory for the Init files, Variables and Expansions project.
 | 5-local\_variables | Prints the shell-set variables. |
 | 6-create\_local\_variable | Sets a local variable. |
 | 7-create\_global\_variable | Sets a global variable. |
+| 8-true\_knowledge | Adds a variable to a constant. |

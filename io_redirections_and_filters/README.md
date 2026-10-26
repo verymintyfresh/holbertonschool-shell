@@ -9,3 +9,4 @@ This is the directory for the IO Redirections and Filters project.
 | 2-hellofile | Prints the content of a specified file to standard output. |
 | 3-twofiles | Prints the content of multiple files to standard output. |
 | 4-lastlines | Prints the last 10 lines of a specified file to standard output. |
+| 5-firstlines | Prints the first 10 lines of a specified file to standard output. |

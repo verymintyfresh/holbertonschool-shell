@@ -6,3 +6,4 @@ This directory contains files for the Permissions project.
 | ---- | ----------- |
 | 0-iam\_betty | Changes the current user. |
 | 1-who\_am\_i | Prints the current user. |
+| 2-groups | Prints the groups the current user is in. |

@@ -24,3 +24,4 @@ This is the directory for the IO Redirections and Filters project.
 | 17-hidethisword | Displays lines from a certain file which do not match a pattern. |
 | 18-letteronly | Displays lines from a certain file which begin with letters. | 
 | 19-AZ | Replaces characters from input with other characters. |
+| 20-hiago | Deletes characters from input. |

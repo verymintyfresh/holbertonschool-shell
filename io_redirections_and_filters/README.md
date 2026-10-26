@@ -22,3 +22,4 @@ This is the directory for the IO Redirections and Filters project.
 | 15-countthatword | Displays a number of occurrences of a certain word in a file. |
 | 16-whatsnext | Displays lines from a certain file which come after a certain pattern. |
 | 17-hidethisword | Displays lines from a certain file which do not match a pattern. |
+| 18-letteronly | Displays lines from a certain file which begin with letters. | 

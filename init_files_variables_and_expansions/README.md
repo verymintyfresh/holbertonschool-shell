@@ -17,3 +17,4 @@ This is the directory for the Init files, Variables and Expansions project.
 | 11-binary\_to\_decimal | Converts a variable to a different base. |
 | 12-combinations | Prints combinations of letters matching a specific pattern. |
 | 13-print\_float | Prints a number with a specified number of decimal places. |
+| 14-decimal\_to\_hexadecimal | Converts a variable to a different base. |

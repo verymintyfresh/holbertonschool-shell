@@ -12,3 +12,4 @@ This directory contains files for the Permissions project.
 | 5-execute | Adds executable permissions to a file. |
 | 6-multiple\_permissions | Changes multiple permissions on a file at once. |
 | 7-everybody | As above. |
+| 8-James\_Bond | Sets permissions 007 on a file. | 

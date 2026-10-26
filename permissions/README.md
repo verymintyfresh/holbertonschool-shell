@@ -14,3 +14,4 @@ This directory contains files for the Permissions project.
 | 7-everybody | As above. |
 | 8-James\_Bond | Sets permissions 007 on a file. | 
 | 9-John\_Doe | Sets different permissions on a file. |
+| 10-mirror\_permissions | Copies permissions from one file to another. |

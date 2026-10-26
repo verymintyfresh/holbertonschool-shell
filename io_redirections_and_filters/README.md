@@ -30,3 +30,4 @@ This is the directory for the IO Redirections and Filters project.
 | 23-empty\_casks | Displays a list of empty files and directories. |
 | 24-gifs | Displays a list of .gif filenames without their extensions. |
 | 25-acrostic | Decodes an acrostic poem into its hidden message. |
+| 26-the\_biggest\_fan | Analyses a TSV of HTTP requests and shows the host with the most. |

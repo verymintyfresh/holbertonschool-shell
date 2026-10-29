@@ -1,2 +1,2 @@
 #!/bin/bash
-nl -s ': ' | grep -e "[13579]:" | tr -s " " | cut -d' ' -f 3
+nl -s ': ' | grep -e "[13579]:" | tr -s " " | cut -d' ' -f 3-

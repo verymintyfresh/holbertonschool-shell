@@ -19,3 +19,6 @@ This is the directory for the Init files, Variables and Expansions project.
 | 12-combinations | Prints combinations of letters matching a specific pattern. |
 | 13-print\_float | Prints a number with a specified number of decimal places. |
 | 14-decimal\_to\_hexadecimal | Converts a variable to a different base. |
+| 15-rot13 | Translates text using the ROT13 algorithm. |
+| 16-odd | Prints every other line of input. |
+| 17-water\_and\_stir | Adds two numbers in a strange format. | 
